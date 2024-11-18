@@ -1,1 +1,1 @@
-# Rolling-Ball-Adventure
+It's an interactive game based on Python and OpenGL with dynamic ball navigation, obstacle interaction, precision disc mechanics, environment transitions, a real-time scoring system, and other captivating features.
